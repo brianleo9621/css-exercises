@@ -1,0 +1,18 @@
+.backround-setting {
+    background-color: rgb(253, 164, 179);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.sizing {
+    font-size: 24px;
+}
+
+#Second-el {
+    color:blue;
+    font-size: 36px;
+}
+
+#last  {
+    background-color: rgb(118, 228, 118);
+    font-weight: bold;
+}
